@@ -1,2 +1,33 @@
-# travelRecommendPublic
-基于Java+Springboot+vue的景区旅游推荐管理系统(源代码+数据库+7000字论文)190 本项目前后端分离，分为用户、商家、管理员三种角色，带协同过滤算法，皮尔森（pearson）相关系数计算 1、用户： 注册、登录、景点推荐(预约、评论)、旅游线路、酒店预订、旅游资讯、我的收藏、我的预订、个人信息、密码修改 2、管理员： 景点预约统计、酒店预约统计、景点管理、线路管理、酒店管理、资讯管理、景点预约管理、酒店预约管理、轮播图管理、个人中心、用户管理、管理员管理 二、所用技术 后端技术栈： Springboot mybatisPlus Redis Mysql Maven 前端技术栈： Vue Vue-router axios elementUi echarts
+### 完整项目获取
+
+通过网盘分享的文件：旅游信息推荐系统
+
+链接: https://pan.baidu.com/s/1eVr1AgYWQDmqXXqrQyd6Tw?pwd=jqws 提取码: jqws
+--来自百度网盘超级会员v3的分享
+
+通过网盘分享的文件：工具包
+
+链接: https://pan.baidu.com/s/1YmdoJvkjoUjA75wvHLDZ6A?pwd=xm96 提取码: xm96
+--来自百度网盘超级会员v3的分享
+
+需要远程项目部署或项目修改和毕业设计也可联系（添加申请时请备注好来意）
+
+远程调试部署联系方式
+
+链接: https://pan.baidu.com/s/1W0dDcoZmayG0c7USJDYBYg?pwd=nqd7 提取码: nqd7
+--来自百度网盘超级会员v3的分享
+
+### 项目合集(项目不断更新中)
+链接: https://pan.baidu.com/s/1nY-zhvAK0CXYcn3g7LzQnQ?pwd=id3c 提取码: id3c
+--来自百度网盘超级会员v3的分享
+
+#### 这些项目一起发你了 可以分享给你需要的同学 调试可找我 也接二次修改和项目定制、毕业设计等
+
+## 接毕业设计和论文
+
+微信联系方式：xzxj0206  QQ：3808981644   (支持修改、 部署调试、 支持代做毕设)
+
+接网站建设、小程序、H5、APP、各种系统等，单片机、嵌入式也可以做
+
+选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt  都可以做
+
